@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.jiguang.mgame.mhmbranch</string>
+                <string>com.sanqi.odin2021</string>
                 <key>bundle-version</key>
                 <string>999.999.999</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>魔幻5.1分支</string>
+                <string>Odin2021</string>
             </dict>
         </dict>
     </array>
